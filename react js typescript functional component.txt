@@ -1,0 +1,3 @@
+react js typescript functional component tailwind menu bar 
+color blue should have 3 button on left side 
+1 logo on right side button should have space between them
